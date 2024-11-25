@@ -1,0 +1,16 @@
+{
+  "id": "go-with-me",
+  "title": "Go with me",
+  "version": "1.0.0",
+  "author": "Jérémy Vich <Yebou>",
+  "esmodules": [
+    "./index.js"
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "url": "https://github.com/Jeremy-vich/go-with-me",
+  "manifest": "https://github.com/Jeremy-vich/go-with-me/releases/download/FoundryVTT/module.json",
+  "download": "https://github.com/Jeremy-vich/go-with-me/releases/download/FoundryVTT/go-with-me.zip"
+}
